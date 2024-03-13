@@ -1,3 +1,12 @@
+** In this I wrote all of the index.js and the index.css files
+** I edited some of the board.js file -- places specified with comments in file
+
+* The project goal was mainly working on building out the html with javascript
+* As well as handling clicks with event listeners
+* And generally just combining a lot of skills into one place (css, html, linking pages etc.)
+
+--------------------------------------------------- below all came with the project..
+
 # Battleship DOM Long Practice
 
 In this practice, you'll create a UI using HTML elements for a basic
